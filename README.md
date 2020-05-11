@@ -4,7 +4,7 @@ Run the App:
   1. Run command in terminal: node server.js
   2. Use this link in browser: host: http://localhost:3000/
  
-#Features
+# Features
 
 1. A room for chat of all the participants.
 2. Messages can be also sent to some specific users by typing @username1, @username2 ... 
